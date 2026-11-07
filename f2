@@ -1,0 +1,4 @@
+git add is used to track a untracked files
+git add . to track specifeid files
+git commit is used to commit file with msg
+
